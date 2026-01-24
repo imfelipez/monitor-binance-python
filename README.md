@@ -13,4 +13,4 @@ Sistema de monitoramento em tempo real desenvolvido em *Python* para análise de
 - *Requests* (API Integration)
 
 ## 👤 Desenvolvedor
-*Felipe Camargo* Digitalização de Negócios & Automação Financeira [LinkedIn](SEU_LINK_DO_LINKEDIN_AQUI)
+*Felipe Camargo* Digitalização de Negócios & Automação Financeira [LinkedIn](https://www.linkedin.com/in/felipe-camargo-0ab709240?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
