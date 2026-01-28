@@ -1,16 +1,18 @@
-# 📊 High-Performance Crypto Dashboard
+# ⚡ High-Performance Crypto Dashboard
 
-Sistema de monitoramento em tempo real desenvolvido em *Python* para análise de volatilidade de ativos digitais via API da *Binance*.
+A real-time monitoring system developed in *Python* for high-frequency digital asset volatility analysis via *Binance & Kraken APIs*.
 
-## 🚀 Funcionalidades
-- *Real-time Tracking*: Monitoramento simultâneo de BTC, ETH e SOL.
-- *Volatility Analysis*: Cálculo dinâmico de variação percentual por sessão.
-- *Rich Terminal UI*: Interface de terminal estilizada para alta legibilidade.
+## 🚀 Key Features
+* *Real-time Tracking*: Concurrent monitoring of BTC, ETH, and SOL.
+* *Volatility Analysis*: Dynamic session percentage variation calculation.
+* *Rich Terminal UI*: Stylized terminal interface for high readability and professional monitoring.
 
-## 🛠️ Tecnologias
-- *Python 3.11*
-- *Rich Library* (Terminal UI)
-- *Requests* (API Integration)
+## 🛠 Tech Stack
+* *Language*: Python 3.11+
+* *Interface*: Rich Library (Terminal UI)
+* *Networking*: WebSockets & Requests (API Integration)
+* *Deployment*: Dockerized Environment
 
-## 👤 Desenvolvedor
-*Felipe Camargo* Digitalização de Negócios & Automação Financeira [LinkedIn](https://www.linkedin.com/in/felipe-camargo-0ab709240?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+## 📦 How to Run
+1. Build the container: docker build -t crypto-dash .
+2. Run it: docker run crypto-dash
